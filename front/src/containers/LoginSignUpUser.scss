@@ -1,0 +1,24 @@
+button {
+    padding: 10px;
+  }
+  
+  label {
+    cursor: pointer;
+  }
+  
+  #form-switch, #register-form {
+    display: none;
+  }
+  
+  #form-switch:checked ~ {
+    #register-form {
+      display: block;
+    }
+    #login-form {
+      display: none;
+    }
+  }
+  
+  .register-box {
+    display: block;
+  }

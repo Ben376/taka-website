@@ -1,0 +1,25 @@
+form {
+  text-align: center;
+  p {
+    color: grey;
+  }
+  label {
+    margin-left: 3%;
+  }
+  .MuiFormLabel-root-258.MuiFormLabel-focused-259 {
+    color: #1d9684;
+  }
+  .MuiInput-input-271 {
+    border: 1px dashed black;
+    border-radius: 5px;
+  }
+  .MuiInput-underline-267 {
+    padding-bottom: 0px;
+  }
+  .MuiButton-containedPrimary-177 {
+    background-color: #961d2f;
+    &:hover {
+      background-color: #7d313c;
+    }
+  }
+}

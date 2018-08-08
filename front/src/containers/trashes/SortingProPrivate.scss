@@ -1,0 +1,9 @@
+.form {
+  display: 'flex';
+  flex-wrap: 'wrap';
+
+  .formControl {
+    margin: 10px;
+    min-width: 120;
+  }
+}

@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "name" : "_id_", "ns" : "Taka.Taka" }, { "v" : 1, "key" : { "serial_number" : 1 }, "name" : "serial_number_1", "ns" : "Taka.Taka", "background" : true } ] }
